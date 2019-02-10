@@ -1,3 +1,7 @@
 # FM MPX Power Monitor (GNU Radio)
 
-The output from MPX power meter is valid after 60 seconds of measurement.
+This GNU Radio Companion project is dedicated for Airspy HF+.
+
+ITU-R SM.1268 provides detailed information about required conditions for measurements.
+The output from MPX power meter is valid after 60 seconds.
+
